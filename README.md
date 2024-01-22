@@ -13,3 +13,5 @@
 6. Clase Visualizador: Un hilo que muestra el estado actual de los asientos en el cine y se actualiza cada vez que se realiza una reserva.
 
 7. Clase Main: Inicia y controla la simulación. Esta clase crea y gestiona hilos para los clientes y el visualizador, y se encarga del flujo continuo de la simulación.
+
+URL - https://github.com/ExceptionPK/Cine/tree/master
